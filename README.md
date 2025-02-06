@@ -13,7 +13,8 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-- 🔭 I’m currently working on @solana-fm
+- 🔭 I’m currently working on @jup-ag
+- ✨ I've worked with some of the most talented builders from @coinhako, @paritytech, and @solana-fm
 - 🌱 I’m currently learning Rust, @tokio-rs, and insane varieties of data stores.
 
 [![Nic's GitHub stats](https://github-readme-stats.vercel.app/api?username=nixxholas&count_private=true&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
